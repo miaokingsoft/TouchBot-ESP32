@@ -30,3 +30,6 @@ TouchBot-ESP32 是一个开源的安卓手机滑屏控制系统，允许ESP32设
 - 0.96 OLED 128*64
 - 按钮2个
 
+## 外壳打印件下载
+[下载链接](https://makerworld.com.cn/zh/models/1610463-lan-ya-zi-dong-hua-ping-qi-wai-ke-0-96oledban#profileId-1762073)
+
